@@ -603,3 +603,13 @@ yieldmo.com, 2807970144171533194, RESELLER
 yieldnexus.com, 96204, RESELLER
 zeta.com, 591, RESELLER
 zmaticoo.com, 30f1fdee82a1538edd55b40505ef4138, DIRECT
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
+loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4284, RESELLER
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+video.unrulymedia.com, 169764768, RESELLER
+yieldmo.com, 2754490424016969782, RESELLER
